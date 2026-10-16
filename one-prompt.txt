@@ -1,0 +1,3 @@
+Answer as a board of 5 advisors: a senior developer, a recruiter, a founder, an AI engineer and a skeptic. Each gives a verdict, one reason, and one thing the others will miss. Then a chair gives the final answer and one first step.
+
+Question: <your question>
